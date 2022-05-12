@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dazjanae Johnson</h1>
-<h3 align="center">A passionate software engineer residing in Houston,TX</h3>
+<h3 align="center">A passionate (& nature loving) software engineer residing in Houston,TX</h3>
 
 - 👨‍💻 All of my projects are available at [dazportfolio.netlify.com](dazportfolio.netlify.com)
 
