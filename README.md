@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dazjanae Johnson</h1>
+<h1 align="center">Hi 👋, I'm Dazjanae but you can call me Daz</h1>
 <h3 align="center">A passionate software engineer residing in Houston,TX</h3>
 
 - 👨‍💻 Some of my projects are available at [dazportfolio.netlify.com](dazportfolio.netlify.com)
