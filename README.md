@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dazjanae Johnson</h1>
 <h3 align="center">A passionate software engineer residing in Houston,TX</h3>
 
-- 👨‍💻 All of my projects are available at [dazportfolio.netlify.com](dazportfolio.netlify.com)
+- 👨‍💻 Some of my projects are available at [dazportfolio.netlify.com](dazportfolio.netlify.com)
 
 - ⚡ Fun fact **I love nature. Especially the silence (that isn't so silent) that comes with it.**
 
