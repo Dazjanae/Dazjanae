@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dazjanae 👩🏿‍💻</h1>
 <h3 align="center">A "forever- learning" software engineer residing in Houston,TX</h3>
+<img src="images/IMG_0826.png">
 
 -  Some of my projects are available at [https://dazportfolio.netlify.app](https://dazportfolio.netlify.app)
 
