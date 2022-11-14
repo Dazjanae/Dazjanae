@@ -2,7 +2,7 @@
 <h3 align="center">A software engineer residing in Houston,TX</h3>
 <img src="images/IMG_0826.png">
 
--  Some of my projects are available at [https://dazportfolio.netlify.app](https://dazportfolio.netlify.app)
+-  View some recent projects at [https://dazportfolio.netlify.app](https://dazportfolio.netlify.app)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
