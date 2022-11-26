@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dazjanae 👩🏿‍💻</h1>
+<h1 align="center">Hi 👋, I'm Daz 👩🏿‍💻</h1>
 <h3 align="center">A software engineer residing in Houston,TX</h3>
 <img src="images/IMG_0826.png">
 
