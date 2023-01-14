@@ -1,5 +1,5 @@
-<h1 align="center">I'm Daz 👩🏿‍, thanks for stopping by!💻</h1>
-<h3 align="center">A software engineer residing in Houston,TX</h3>
+<h1 align="center">Hi there, I'm Daz!💻</h1>
+<h3 align="center">Here to help you with your engineering needs!</h3>
 <img src="images/IMG_0826.png">
 
 <p align="center"> In a nutshell....My mission statement is to be a "forever learner", I've exercised a resourceful methodical approach to problem solving, which involves extensive research anytime my curiosity is sparked and/or I need to gain knowledge of a topic. I am independently motivated, yet I appreciate team efforts and collaborate productively within groups. I'm motivated to make positive business impacts through organization, the willingness to assist others, and execution of projects. Not only do I possess soft skills to transform your team for the better, I also am knowledgeable in Javascript, Nodejs, Express, HTML5, CSS3, MongoDG, Version Control, Object-Oriented Programming, and much more. I pride myself in being a skilled learner and grasping materials easily. Messages and coffee chats are WELCOME if you believe I could be an asset to your team or project. 
